@@ -7,4 +7,4 @@ all informations are provided in .ipynb
 - used own MROCS algorithm inspired by MADDPG
 - well there are many improvements ~ see wheeler framework for example ( lot of different features and things to tune ), rewheeler soon
 
-trained weights you can find at : https://github.com/rezer0dai/UnityMLEnvs/tree/master/models/mrocs/benchmark
+trained weights you can find at : https://github.com/rezer0dai/UnityMLEnvs/tree/master/models/mrocs/benchmark or alternative : https://github.com/rezer0dai/temporary
