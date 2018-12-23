@@ -3,7 +3,7 @@ benchmark of MROCS algorithm inspired by MADDPG and my previous work ( wheeler )
 
 all informations are provided in Report.ipynb
 - used own MROCS algorithm inspired by MADDPG
-- well there are many improvements ~ see wheeler framework for example ( lot of different features and things to tune ), rewheeler soon
+- well there are many improvements ~ see wheeler framework for example ( lot of different features and things to tune ~ GAE, RNN/CNN, globalnormalizer, network sizes, neural network architecture, RUDDER approah, etc etc), rewheeler soon
 
 - How to run the code : run Report.ipynb
 
